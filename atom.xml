@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-08T15:46:11.736Z</updated>
+  <updated>2022-11-05T07:52:26.759Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,48 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>22.11.08小记</title>
-    <link href="http://example.com/2022/11/08/22-11-08%E5%B0%8F%E8%AE%B0/"/>
-    <id>http://example.com/2022/11/08/22-11-08%E5%B0%8F%E8%AE%B0/</id>
-    <published>2022-11-08T15:44:50.000Z</published>
-    <updated>2022-11-08T15:46:11.736Z</updated>
-    
-    <content type="html"><![CDATA[<p>章鱼菜菜，需要被海底捞捞</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;章鱼菜菜，需要被海底捞捞&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>22.11.07小记</title>
-    <link href="http://example.com/2022/11/05/test/"/>
-    <id>http://example.com/2022/11/05/test/</id>
-    <published>2022-11-05T10:38:48.000Z</published>
-    <updated>2022-11-07T15:11:19.900Z</updated>
-    
-    <content type="html"><![CDATA[<p>lamb开启了卷王模式</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;lamb开启了卷王模式&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
