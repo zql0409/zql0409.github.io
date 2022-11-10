@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-05T07:52:26.759Z</updated>
+  <updated>2022-11-10T12:23:59.326Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2022/11/10/test/"/>
+    <id>http://example.com/2022/11/10/test/</id>
+    <published>2022-11-10T12:21:10.000Z</published>
+    <updated>2022-11-10T12:23:59.326Z</updated>
+    
+    <content type="html"><![CDATA[<p>适当的悲哀可以表示感情的深切，过度的伤心却可以证明智慧的欠缺。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;适当的悲哀可以表示感情的深切，过度的伤心却可以证明智慧的欠缺。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="books" scheme="http://example.com/tags/books/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
